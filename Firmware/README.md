@@ -10,4 +10,4 @@ This board is base Arduino Nano 328, can be programmed using software like :
 
 # PLC LIKE PROGRAMMING TOOLS
 
-![OUTSEAL PLC](http://www.outseal.com/web/download/)
+#1 [OUTSEAL PLC](http://www.outseal.com/web/download/)
