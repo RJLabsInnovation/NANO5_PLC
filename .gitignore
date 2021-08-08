@@ -1,12 +1,11 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
-#lib
+
+# Temporary files
 *.pro
 *.3dshapes
 *.pretty
-
-# Temporary files
 *.000
 *.bak
 *.bck
