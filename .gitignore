@@ -3,10 +3,6 @@
 
 
 # Temporary files
-*.lib
-NANO5_PLC.pro 
-*.3dshapes
-*.pretty
 *.000
 *.bak
 *.bck
@@ -29,3 +25,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# additional
+*.pro
+*.3dshapes
+*.pretty
+*.lib
