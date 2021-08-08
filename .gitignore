@@ -3,7 +3,8 @@
 
 
 # Temporary files
-*.pro
+*.lib
+NANO5_PLC.pro 
 *.3dshapes
 *.pretty
 *.000
