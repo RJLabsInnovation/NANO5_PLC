@@ -373,8 +373,6 @@ Wire Wire Line
 Connection ~ 3800 3950
 Wire Notes Line
 	2500 450  2500 5250
-Text Notes 2100 700  2    79   Italic 16
-uC Core
 $Comp
 L Connector_Generic:Conn_01x03 J3
 U 1 1 60F3972F
@@ -905,9 +903,9 @@ F 3 "" H 3500 3150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Connection ~ 3500 3150
-Text Notes 2750 700  0    79   Italic 16
+Text Notes 3750 650  0    79   Italic 16
 INPUT STAGE
-Text Notes 4750 700  0    79   Italic 16
+Text Notes 4750 650  0    79   Italic 16
 OUTPUT STAGE
 Connection ~ 3500 2300
 $Comp
@@ -2158,4 +2156,6 @@ Text Notes 7350 7500 0    79   Italic 16
 NANO5 PLC  OUTSEAL V5 COMPETIBLE\n
 Text Notes 7000 7000 0    79   Italic 16
 COPYRIGHT  RJLabs Innovation @2021\nE-mail : rjlabs.innovation@gmail.com
+Text Notes 10350 650  2    79   Italic 16
+uC Core
 $EndSCHEMATC
