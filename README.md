@@ -18,6 +18,6 @@ Donations
 --------
 To support this project, you can make a donation to its current maintainer:
 
-[![paypal](./doc/Images/paypal_btn_donateCC_LG_1.gif)](https://paypal.)
-[![bitcoin-black](./doc/Images/bitcoin-donate-black.png)](https://raw.githubusercontent.com/Ximi1970/Donate/master/bitcoin-address.txt)
+[![paypal](./doc/Images/paypal_btn_donateCC_LG_1.gif)](https://paypal.me/auto70)
+[![bitcoin-black](./doc/Images/bitcoin-donate-black.png)](https:bitcoin-address.txt)
 
