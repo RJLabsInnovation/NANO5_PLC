@@ -12,7 +12,7 @@ Key Feature
 -------- 
 * 2 Analog Input 0 - 20mA Or 0 -5V
 * Buitlin Modbus RTU
-* Bultin external EEPROM 24CXX
+* Builtin external EEPROM 24CXX
 * 8 Isolated Digital Input (12V - 24V)
 * 2 Relay On Board with Surge Protection
 * 6 Open Colector Digital Output
