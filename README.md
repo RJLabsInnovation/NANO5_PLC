@@ -10,21 +10,23 @@ Overview
 
 Key Feature
 -------- 
+* 2 Analog Input 0 - 20mA Or 0 -5V
 * Buitlin Modbus RTU
 * Bultin external EEPROM 24CXX
-* Isolated Digital Input (12V - 24V)
+* 8 Isolated Digital Input (12V - 24V)
 * 2 Relay On Board with Surge Protection
+* 6 Open Colector Digital Output
 * Add On RTC DS3231 & Bluethoot HC05/06 
 
 
 TODO
 --------
 * Add Regulator input power From LDO using Switching fore wide input voltage
-* 
+* Add filter On input power stage
+*
 
 FINAL PRODUCT 3D RENDER
 --------
-
 
 <img src="./doc/Images/FINAL_NANO5_PLC3.jpg" width="410"/> <img src="./doc/Images/FINAL_NANO5_PLC4.jpg" width="410"/> 
 
