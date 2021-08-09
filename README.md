@@ -6,7 +6,21 @@ NANO5_PLC
 
 Overview
 --------
-  This design board is based Outseal PLC V.5 [Outseal Website](http://www.outseal.com/web/produk). The main goal of this project to provide sigle side PCB that can be produce in house using transfer paper or negatif film.
+  This design board is based Outseal PLC V.5 [Outseal Website](http://www.outseal.com/web/produk). The main goal of this project to provide sigle side PCB that can be produce in house using transfer paper or negatif film method.
+
+Key Feature
+-------- 
+* Buitlin Modbus RTU
+* Bultin external EEPROM 24CXX
+* Isolated Digital Input (12V - 24V)
+* 2 Relay On Board with Surge Protection
+* Add On RTC DS3231 & Bluethoot HC05/06 
+
+
+TODO
+--------
+* Add Regulator input power From LDO using Switching fore wide input voltage
+* 
 
 FINAL PRODUCT 3D RENDER
 --------
