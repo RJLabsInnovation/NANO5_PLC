@@ -13,11 +13,14 @@ Key Feature
 * Buitlin Modbus RTU
 * Bultin external EEPROM 24CXX
 * Isolated Digital Input (12V - 24V)
-* 
+* 2 Relay On Board with Surge Protection
+* Add On RTC DS3231 & Bluethoot HC05/06 
 
 
 TODO
 --------
+* Add Regulator input power From LDO using Switching fore wide input voltage
+* 
 
 FINAL PRODUCT 3D RENDER
 --------
